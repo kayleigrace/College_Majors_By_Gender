@@ -1,6 +1,6 @@
-# Descriptive Title
+# Not Single, but Sleeping Alone 
 
 By Kaylei Nilson-Pierce
-Descriptive paragraph: Where I found the data and what format
-give attribution to data 
-what tools I used and screenshot
+
+I found this data in FiveThirtyEight's data sets. The title of the data set is "sleeping-alone-data," and Andrew Flowers is the contributer. The data set is in a .csv file and recieved 1,057 responses from American adults in some form of a relationship and their sleeping habits. Mona Chalabi wrote an article, "Dear Mona, How Many Couples Sleep in Seperate Beds," that analyzes some of this data. To download the .csv file from githum I clicked on the "raw" button and saved the webpage to my computer, then I uploaded this file to the "upload" section of this repository. 
+
