@@ -71,6 +71,13 @@ To find the top 10 most popular STEM majors I used a similar process of creating
 </script>
 
 
+Taking into consideration that there is a slightly higher proportion of men than women in these STEM majors (established in pie chart), it is not suprising to see slightly higher totals of men than women in the above chart. However, there is a much bigger gap in total men and women when filtering by highest median earning salary. This visualizes correlation, but **not causation**.
+
+
+<iframe title="Top 10 Highest Median Earnings of STEM Majors" aria-label="Grouped Bars" id="datawrapper-chart-f8Ae9" src="https://datawrapper.dwcdn.net/f8Ae9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="830"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
 
 
 
