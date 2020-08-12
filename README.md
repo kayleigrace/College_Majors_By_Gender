@@ -9,7 +9,7 @@ For this data analysis, I will be using the data sets under [College Majors](htt
 
 All of the data is from [American Community Survey 2010-2012 Public Use Microdata Series](https://www.census.gov/programs-surveys/acs/data/pums.html). The major categories are from [Carnevale et al, "What's It Worth?: The Economic Value of College Majors."](https://cew.georgetown.edu/cew-reports/whats-it-worth-the-economic-value-of-college-majors/) Georgetown University Center on Education and the Workforce, 2011. 
 
-I used the CSV file [recent grads] (https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv) and [women stem](https://github.com/fivethirtyeight/data/blob/master/college-majors/women-stem.csv). 
+I used the CSV file ["recent grads"](https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv) and ["women stem"](https://github.com/fivethirtyeight/data/blob/master/college-majors/women-stem.csv). 
 
 
 The steps I took to manipulate these data sets are: 
