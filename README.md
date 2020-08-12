@@ -1,5 +1,5 @@
 # Interrogating College Graduate Data 
-## **An analysis of data on 2010-2012 graduates and college majors sorted by gender, STEM and non-STEM, and median earnings.**
+## *An analysis of data on 2010-2012 graduates and college majors sorted by gender, STEM and non-STEM, and median earnings.*
 
 By Kaylei Nilson-Pierce
 
