@@ -4,7 +4,7 @@
 By Kaylei Nilson-Pierce
 
 
-For this data analysis, I will be using the data set [College Majors](https://github.com/fivethirtyeight/data/tree/master/college-majors "College Majors Data Set") provided by [FiveThirtyEight's Github Repository](https://github.com/fivethirtyeight/data "FiveThirtyEight Repository Homepage"). This data was provided by the contributer [Ben Casselman](https://github.com/BenCasselman "Ben's Homepage"). Ben Casselman also wrote an article, ["The Economic Guide to Picking A College Major"](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/) using the same data sets. 
+For this data analysis, I will be using the data sets under [College Majors](https://github.com/fivethirtyeight/data/tree/master/college-majors "College Majors Data Set") provided by [FiveThirtyEight's Github Repository](https://github.com/fivethirtyeight/data "FiveThirtyEight Repository Homepage"). This data was provided by the contributer [Ben Casselman](https://github.com/BenCasselman "Ben's Homepage"). Ben Casselman also wrote an article, ["The Economic Guide to Picking A College Major"](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/) using the same data sets. 
 
 
 All of the data is from [American Community Survey 2010-2012 Public Use Microdata Series](https://www.census.gov/programs-surveys/acs/data/pums.html). The major categories are from [Carnevale et al, "What's It Worth?: The Economic Value of College Majors."](https://cew.georgetown.edu/cew-reports/whats-it-worth-the-economic-value-of-college-majors/) Georgetown University Center on Education and the Workforce, 2011. 
