@@ -58,25 +58,6 @@ To answer my first questions about gender break down in STEM major and all major
 ## Gender Breakdown of STEM and All Majors
 
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  
-</head>
-<body>
-
-     <iframe src=""https://docs.google.com/spreadsheets/d/e/2PACX-1vTllcGlSyCWm1mU_LrXc1Us3OFNgYt7Ip3udIiMjFefeYJrQhIB2RYR93cP6CYuNKcAr9gRC5rmwEpq/pubchart?oid=338628544&amp;format=interactive"" frameborder="0" scrolling="yes"                           
-                                    style="float: left">
-                                  </iframe>  
-
-     <iframe src=""https://docs.google.com/spreadsheets/d/e/2PACX-1vSWWPsKkyUqWq9WohmUYfZGJezkVHpZ5DDST-ASzi6WsNHQ3HfhifdtUa3PLBzfoe8yhmbfVmafDrys/pubchart?oid=539747355&amp;format=interactive"" frameborder="0" scrolling="yes"  
-                                        style="float: right">
-                                        </iframe>
-</body>
-</html>
-
-
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTllcGlSyCWm1mU_LrXc1Us3OFNgYt7Ip3udIiMjFefeYJrQhIB2RYR93cP6CYuNKcAr9gRC5rmwEpq/pubchart?oid=338628544&amp;format=interactive" ></iframe>
 
 
