@@ -1,7 +1,7 @@
 # Interrogating College Data on Graduates
 ## *A data analysis of college graduates and their majors sorted by gender, STEM and non-STEM, and median earnings.*
 
-####By Kaylei Nilson-Pierce
+#### By Kaylei Nilson-Pierce
 
 
 For this data analysis, I will be using the data sets under [College Majors](https://github.com/fivethirtyeight/data/tree/master/college-majors "College Majors Data Set") provided by [FiveThirtyEight's Github Repository](https://github.com/fivethirtyeight/data "FiveThirtyEight Repository Homepage"). This data was provided by the contributer [Ben Casselman](https://github.com/BenCasselman "Ben's Homepage"). Ben Casselman also wrote an article, ["The Economic Guide to Picking A College Major"](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/) using the same data sets. 
@@ -83,7 +83,7 @@ Taking into consideration that there is a slightly higher proportion of men than
 </script>
 
 
-## *All Majors*
+## All Majors
 
 
 <iframe title="Top 10 Most Popular Majors Women Graduated From" aria-label="Bar Chart" id="datawrapper-chart-a1kZj" src="https://datawrapper.dwcdn.net/a1kZj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
