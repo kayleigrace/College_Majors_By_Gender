@@ -53,8 +53,14 @@ To answer my first questions about gender break down in STEM major and all major
 6. Next, I clicked insert chart and formatted my pie chart.
 
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWWPsKkyUqWq9WohmUYfZGJezkVHpZ5DDST-ASzi6WsNHQ3HfhifdtUa3PLBzfoe8yhmbfVmafDrys/pubchart?oid=539747355&amp;format=interactive"></iframe>
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTllcGlSyCWm1mU_LrXc1Us3OFNgYt7Ip3udIiMjFefeYJrQhIB2RYR93cP6CYuNKcAr9gRC5rmwEpq/pubchart?oid=338628544&amp;format=interactive"></iframe>
+
+<div class="box">
+  <iframe src= "https://docs.google.com/spreadsheets/d/e/2PACX-1vSWWPsKkyUqWq9WohmUYfZGJezkVHpZ5DDST-ASzi6WsNHQ3HfhifdtUa3PLBzfoe8yhmbfVmafDrys/pubchart?oid=539747355&amp;format=interactive" frameborder="0" scrolling="no" width="100%" height="512" align="left"> </iframe>
+</div>
+
+<div class="box">
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTllcGlSyCWm1mU_LrXc1Us3OFNgYt7Ip3udIiMjFefeYJrQhIB2RYR93cP6CYuNKcAr9gRC5rmwEpq/pubchart?oid=338628544&amp;format=interactive" frameborder="0" scrolling="no" width="100%" height="512" align="right"></iframe>
+</div>
 
 
 To answer the top 10 most popular uses a similar process of creating
