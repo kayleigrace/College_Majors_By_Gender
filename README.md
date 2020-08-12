@@ -75,6 +75,13 @@ To answer my first questions about gender break down in STEM major and all major
 <body/>
 
 
-To answer the top 10 most popular uses a similar process of creating
+To find the top 10 most popular STEM majors I used a similar process of creating a pivot table, but did not need to open a new sheet or paste transpose. I copied the data from the pivot table that was filtered by most women and pasted it in Data Wrapper to format a chart. I did the same process for males and all majors.
+
+
+<iframe title="Top 10  Most Popular STEM Majors for Women " aria-label="Bar Chart" id="datawrapper-chart-YuFCQ" src="https://datawrapper.dwcdn.net/YuFCQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="378"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+
 
 
