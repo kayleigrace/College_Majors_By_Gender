@@ -53,29 +53,21 @@ To answer my first questions about gender break down in STEM major and all major
 6. Next, I clicked insert chart and formatted my pie chart.
 
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTllcGlSyCWm1mU_LrXc1Us3OFNgYt7Ip3udIiMjFefeYJrQhIB2RYR93cP6CYuNKcAr9gRC5rmwEpq/pubchart?oid=338628544&amp;format=interactive"></iframe>
 
-    .box{
-    float:left;
-    margin-right:20px;
-}
-.clear{
-    clear:both;
-}
-    
-<div class="box">
-  <iframe src= "https://docs.google.com/spreadsheets/d/e/2PACX-1vSWWPsKkyUqWq9WohmUYfZGJezkVHpZ5DDST-ASzi6WsNHQ3HfhifdtUa3PLBzfoe8yhmbfVmafDrys/pubchart?oid=539747355&amp;format=interactive" frameborder="0" scrolling="no" width="100%" height="512" align="left"> </iframe>
-</div>
 
-<div class="box">
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTllcGlSyCWm1mU_LrXc1Us3OFNgYt7Ip3udIiMjFefeYJrQhIB2RYR93cP6CYuNKcAr9gRC5rmwEpq/pubchart?oid=338628544&amp;format=interactive" frameborder="0" scrolling="no" width="100%" height="512" align="right"></iframe>
-</div>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWWPsKkyUqWq9WohmUYfZGJezkVHpZ5DDST-ASzi6WsNHQ3HfhifdtUa3PLBzfoe8yhmbfVmafDrys/pubchart?oid=539747355&amp;format=interactive"></iframe>
 
 
 
 To find the top 10 most popular STEM majors I used a similar process of creating a pivot table, but did not need to open a new sheet or paste transpose. I copied the data from the pivot table that was filtered by most women and pasted it in Data Wrapper to format a chart. I did the same process for males and all majors.
 
 
-<iframe title="Top 10  Most Popular STEM Majors for Women " aria-label="Bar Chart" id="datawrapper-chart-YuFCQ" src="https://datawrapper.dwcdn.net/YuFCQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="378"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Top 10  Most Popular STEM Majors Women Graduated From" aria-label="Bar Chart" id="datawrapper-chart-YuFCQ" src="https://datawrapper.dwcdn.net/YuFCQ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="378"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+<iframe title="Top 10 Most Popular STEM Majors Men Graduated From" aria-label="Bar Chart" id="datawrapper-chart-UcE0g" src="https://datawrapper.dwcdn.net/UcE0g/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="375"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
