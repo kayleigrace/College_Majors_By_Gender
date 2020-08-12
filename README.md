@@ -1,7 +1,7 @@
 # Interrogating College Data on Graduates
 ## *A data analysis of college graduates and their majors sorted by gender, STEM and non-STEM, and median earnings.*
 
-By Kaylei Nilson-Pierce
+####By Kaylei Nilson-Pierce
 
 
 For this data analysis, I will be using the data sets under [College Majors](https://github.com/fivethirtyeight/data/tree/master/college-majors "College Majors Data Set") provided by [FiveThirtyEight's Github Repository](https://github.com/fivethirtyeight/data "FiveThirtyEight Repository Homepage"). This data was provided by the contributer [Ben Casselman](https://github.com/BenCasselman "Ben's Homepage"). Ben Casselman also wrote an article, ["The Economic Guide to Picking A College Major"](https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/) using the same data sets. 
@@ -53,7 +53,7 @@ To answer my first questions about gender break down in STEM major and all major
 6. Next, I clicked insert chart and formatted my pie chart.
 
 
-### *Gender Breakdown of STEM and All Majors*
+## Gender Breakdown of STEM and All Majors
 
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTllcGlSyCWm1mU_LrXc1Us3OFNgYt7Ip3udIiMjFefeYJrQhIB2RYR93cP6CYuNKcAr9gRC5rmwEpq/pubchart?oid=338628544&amp;format=interactive"></iframe>
@@ -62,7 +62,7 @@ To answer my first questions about gender break down in STEM major and all major
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWWPsKkyUqWq9WohmUYfZGJezkVHpZ5DDST-ASzi6WsNHQ3HfhifdtUa3PLBzfoe8yhmbfVmafDrys/pubchart?oid=539747355&amp;format=interactive"></iframe>
 
 
-### *STEM Majors*
+## STEM Majors
 
 
 To find the top 10 most popular STEM majors I used a similar process of creating a pivot table, but did not need to open a new sheet or paste transpose. I copied the data from the pivot table that was filtered by most women and pasted it in Data Wrapper to format a chart. I did the same process for males and all majors.
@@ -76,7 +76,7 @@ To find the top 10 most popular STEM majors I used a similar process of creating
 </script>
 
 
-Taking into consideration that there is a slightly higher proportion of men than women in these STEM majors (established in pie chart), it is not suprising to see slightly higher totals of men than women in the above chart. However, there is a much bigger gap in total men and women when filtering by highest median earning salary. This visualizes correlation, but **not causation**.
+Taking into consideration that there is a slightly higher proportion of men than women in these STEM majors (established in pie chart), it is not suprising to see slightly higher totals of men than women in the above chart. However, there is a much bigger gap in total men and women when filtering by highest median earning salary. This visualizes **correlation**, but **not causation**.
 
 
 <iframe title="Top 10 Highest Median Earnings of STEM Majors" aria-label="Grouped Bars" id="datawrapper-chart-f8Ae9" src="https://datawrapper.dwcdn.net/f8Ae9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="830"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -92,6 +92,28 @@ Taking into consideration that there is a slightly higher proportion of men than
 
 <iframe title="Top 10 Majors Most Popular Majors Men Graduated From" aria-label="Bar Chart" id="datawrapper-chart-ttuYN" src="https://datawrapper.dwcdn.net/ttuYN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+
+<iframe title="Top 10 Highest Paying Non-STEM Majors" aria-label="Grouped Bars" id="datawrapper-chart-qXUL0" src="https://datawrapper.dwcdn.net/qXUL0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="909"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+The chart above was a little trickier to make because when I initially went to just filter highest median earning majors of all majors (STEM and non-STEM) the top 10 were the exact same as the top 10 for the highest median earning of the STEM chart. I went through each line to find the highest earning median majors that didn't fall under any of the categories of STEM in this data set. These results were slightly suprising to me given that women are the majority in non-STEM major I expected women would have a lead in highest median earning non-STEM majors.
+
+
+## Correlation?
+
+
+<iframe title="Are Majors That Have Higher Median Earnings More Popular?" aria-label="chart" id="datawrapper-chart-rOENR" src="https://datawrapper.dwcdn.net/rOENR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+Here is an interactive version of the [median earning and popularity chart](https://datawrapper.dwcdn.net/rOENR/1/) where you can click on each dot and see what major it is. The results of this chart depict very little correlation between the two variables. 
+
+
+## Part-Time
+
+
+
 
 
 
