@@ -76,7 +76,7 @@ To find the top 10 most popular STEM majors I used a similar process of creating
 </script>
 
 
-Taking into consideration that there is a slightly higher proportion of men than women in these STEM majors (established in pie chart), it is not suprising to see slightly higher totals of men than women in the above chart. However, there is a much bigger gap in total men and women when filtering by highest median earning salary. This visualizes **correlation**, but **not causation**.
+Taking into consideration that there is a slightly higher proportion of men than women in these STEM majors (established in pie chart), it is not suprising to see slightly higher totals of men than women in the above chart. However, there is a much bigger gap in total men and women when filtering by highest median earning salary. This visualizes **correlation**, but **not causation**. It is also important to keep in mind that these charts should not reinforce or perpetuate any gender-related STEM stereotypes, instead its a place to see where more growth can occur. 
 
 
 <iframe title="Top 10 Highest Median Earnings of STEM Majors" aria-label="Grouped Bars" id="datawrapper-chart-f8Ae9" src="https://datawrapper.dwcdn.net/f8Ae9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="830"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -98,7 +98,7 @@ Taking into consideration that there is a slightly higher proportion of men than
 </script>
 
 
-The chart above was a little trickier to make because when I initially went to just filter highest median earning majors of all majors (STEM and non-STEM) the top 10 were the exact same as the top 10 for the highest median earning of the STEM chart. I went through each line to find the highest earning median majors that didn't fall under any of the categories of STEM in this data set. These results were slightly suprising to me given that women are the majority in non-STEM major I expected women would have a lead in highest median earning non-STEM majors.
+The chart above was a little trickier to make because when I initially went to just filter highest median earning majors of all majors (STEM and non-STEM) the top 10 were the exact same as the top 10 for the highest median earning of the STEM chart. I went through each line to find the highest earning median majors that didn't fall under any of the categories of STEM in this data set. These results were slightly suprising to me given that women are the majority in non-STEM major I expected women would have a lead in highest median earning non-STEM majors; however, it is important to note that this data is from 2010-2012, and in recent years, women have been more elevated and empowered by society in higher earning jobs. It would be interesting to compare this data to present-day and see if there are noticable changes.
 
 
 ## Correlation?
@@ -113,6 +113,14 @@ Here is an interactive version of the [median earning and popularity chart](http
 ## Part-Time
 
 
+<iframe title="Top 10 Majors With Highest Rate of Part-Time Jobs" aria-label="chart" id="datawrapper-chart-91R62" src="https://datawrapper.dwcdn.net/91R62/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="650"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+This chart provides some contextualization that my mom has a great job to switch to part-time if need be! 7/10 of these graphs depict a higher percentage of females. These results could be due to situations like my mom where she is the primary caregiver for her kids; however, it is important to note that this data is from 2010-2012 and gender roles are constantly transforming to be more equal between women and men.
+
+
+Thanks for reading !
 
 
 
